@@ -1,0 +1,19 @@
+//
+//  locationPH.pch
+//  Hase-F
+//
+//  Created by 张昊煜 on 15/12/3.
+//  Copyright © 2015年 Lab. All rights reserved.
+//
+
+#ifndef locationPH_pch
+#define locationPH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//界面数据
+#define HFWith [UIScreen mainScreen].bounds.size.width
+#define HFHeight [UIScreen mainScreen].bounds.size.height
+
+#endif /* locationPH_pch */
